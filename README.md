@@ -1,0 +1,2 @@
+# Ventura13.0-RX6600-R5-2600-2022
+ MacOS Ventura 13.0 For AMD Ryzen 5 2600 and GPU RX6600
